@@ -9,6 +9,9 @@ namespace Prototype_MyFinanc.salary
 
     public class Salario
     {
-
+        public static void hello()
+        {
+            Console.WriteLine("hhellou world");
+        }
     }
 }
