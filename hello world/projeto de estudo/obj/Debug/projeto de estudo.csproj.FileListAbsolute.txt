@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Oficina\hello world\projeto de estudo\bin\Debug\projeto de estudo.exe.config
+C:\Users\Administrator\Desktop\Oficina\hello world\projeto de estudo\bin\Debug\projeto de estudo.exe
+C:\Users\Administrator\Desktop\Oficina\hello world\projeto de estudo\bin\Debug\projeto de estudo.pdb
+C:\Users\Administrator\Desktop\Oficina\hello world\projeto de estudo\obj\Debug\projeto de estudo.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Oficina\hello world\projeto de estudo\obj\Debug\projeto de estudo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Oficina\hello world\projeto de estudo\obj\Debug\projeto de estudo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Oficina\hello world\projeto de estudo\obj\Debug\projeto de estudo.exe
+C:\Users\Administrator\Desktop\Oficina\hello world\projeto de estudo\obj\Debug\projeto de estudo.pdb

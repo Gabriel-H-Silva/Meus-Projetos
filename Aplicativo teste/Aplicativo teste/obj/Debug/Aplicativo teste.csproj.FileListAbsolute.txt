@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Aplicativo teste\Aplicativo teste\bin\Debug\Aplicativo teste.exe.config
+C:\Users\Gabriel\source\repos\Aplicativo teste\Aplicativo teste\bin\Debug\Aplicativo teste.exe
+C:\Users\Gabriel\source\repos\Aplicativo teste\Aplicativo teste\bin\Debug\Aplicativo teste.pdb
+C:\Users\Gabriel\source\repos\Aplicativo teste\Aplicativo teste\obj\Debug\Aplicativo teste.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Aplicativo teste\Aplicativo teste\obj\Debug\Aplicativo teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\source\repos\Aplicativo teste\Aplicativo teste\obj\Debug\Aplicativo_teste.Properties.Resources.resources
+C:\Users\Gabriel\source\repos\Aplicativo teste\Aplicativo teste\obj\Debug\Aplicativo teste.csproj.GenerateResource.cache
+C:\Users\Gabriel\source\repos\Aplicativo teste\Aplicativo teste\obj\Debug\Aplicativo teste.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Aplicativo teste\Aplicativo teste\obj\Debug\Aplicativo teste.exe
+C:\Users\Gabriel\source\repos\Aplicativo teste\Aplicativo teste\obj\Debug\Aplicativo teste.pdb
+C:\Users\Gabriel\source\repos\Aplicativo teste\Aplicativo teste\obj\Debug\Aplicativo_teste.inicio.resources
+C:\Users\Gabriel\source\repos\Aplicativo teste\Aplicativo teste\obj\Debug\Aplicativo_teste.Projeto.resources

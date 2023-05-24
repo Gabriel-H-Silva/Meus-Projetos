@@ -1,0 +1,5 @@
+1 Crie um programa que leia um número inteiro positivo N e exiba a sequência de Fibonacci até o N-ésimo termo.
+2 Escreva um programa que leia uma lista de números inteiros e exiba o maior e o menor valor presente na lista.
+3 Crie um programa que simule um jogo de adivinhação, no qual o computador escolhe um número aleatório e o jogador precisa tentar adivinhar qual é. O programa deve informar se o palpite é maior ou menor que o número escolhido, até que o jogador acerte.
+4 Implemente um programa que leia um número inteiro N e exiba todos os números primos menores ou iguais a N.
+5 Crie um programa que leia uma frase e conte quantas vezes cada palavra aparece nessa frase. Exiba a contagem de cada palavra de forma ordenada.

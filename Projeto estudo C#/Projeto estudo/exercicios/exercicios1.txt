@@ -1,0 +1,10 @@
+1 Escreva um programa que exiba "Olá, mundo!" no console.
+2 Crie um programa que solicite ao usuário um número e exiba o dobro desse número.
+3 Crie um programa que solicite ao usuário o raio de um círculo e calcule a sua área.
+4 Crie um programa que solicite ao usuário dois números e exiba o resultado da soma entre eles.
+5 Escreva um programa que exiba os números pares de 1 a 100.
+6 Crie um programa que solicite ao usuário a idade e exiba se ele é maior de idade ou não.
+7 Crie um programa que solicite ao usuário um número e exiba se ele é positivo, negativo ou zero.
+8 Escreva um programa que exiba os números de 1 a 10 em ordem decrescente.
+9 Crie um programa que solicite ao usuário um número e exiba a tabuada desse número.
+10 Escreva um programa que calcule e exiba o fatorial de um número fornecido pelo usuário.

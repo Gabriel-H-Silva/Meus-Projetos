@@ -1,0 +1,5 @@
+Processamento de Dados em Lote:
+Desenvolva um programa que processe um grande volume de dados em lote.
+Imagine que você precise processar um arquivo contendo informações de vendas de uma empresa, com milhares de registros.
+O programa deve ler o arquivo, realizar cálculos estatísticos ou outras operações específicas de acordo com as informações fornecidas, e gerar relatórios com os resultados.
+Considere a implementação de algoritmos eficientes para lidar com grandes volumes de dados e otimizar o desempenho do processamento.

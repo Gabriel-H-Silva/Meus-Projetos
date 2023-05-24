@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Oficina\GabrielH_Projetos-master\Prototype-MyFinanc\Prototype-MyFinanc\obj\Debug\net6.0\Prototype-MyFinanc.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Oficina\GabrielH_Projetos-master\Prototype-MyFinanc\Prototype-MyFinanc\obj\Debug\net6.0\Prototype-MyFinanc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Oficina\GabrielH_Projetos-master\Prototype-MyFinanc\Prototype-MyFinanc\obj\Debug\net6.0\Prototype-MyFinanc.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Oficina\GabrielH_Projetos-master\Prototype-MyFinanc\Prototype-MyFinanc\obj\Debug\net6.0\Prototype-MyFinanc.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Oficina\GabrielH_Projetos-master\Prototype-MyFinanc\Prototype-MyFinanc\obj\Debug\net6.0\Prototype-MyFinanc.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Oficina\GabrielH_Projetos-master\Prototype-MyFinanc\Prototype-MyFinanc\bin\Debug\net6.0\Prototype-MyFinanc.exe
+C:\Users\Administrator\Desktop\Oficina\GabrielH_Projetos-master\Prototype-MyFinanc\Prototype-MyFinanc\bin\Debug\net6.0\Prototype-MyFinanc.deps.json
+C:\Users\Administrator\Desktop\Oficina\GabrielH_Projetos-master\Prototype-MyFinanc\Prototype-MyFinanc\bin\Debug\net6.0\Prototype-MyFinanc.runtimeconfig.json
+C:\Users\Administrator\Desktop\Oficina\GabrielH_Projetos-master\Prototype-MyFinanc\Prototype-MyFinanc\bin\Debug\net6.0\Prototype-MyFinanc.dll
+C:\Users\Administrator\Desktop\Oficina\GabrielH_Projetos-master\Prototype-MyFinanc\Prototype-MyFinanc\bin\Debug\net6.0\Prototype-MyFinanc.pdb
+C:\Users\Administrator\Desktop\Oficina\GabrielH_Projetos-master\Prototype-MyFinanc\Prototype-MyFinanc\obj\Debug\net6.0\Prototype-MyFinanc.dll
+C:\Users\Administrator\Desktop\Oficina\GabrielH_Projetos-master\Prototype-MyFinanc\Prototype-MyFinanc\obj\Debug\net6.0\refint\Prototype-MyFinanc.dll
+C:\Users\Administrator\Desktop\Oficina\GabrielH_Projetos-master\Prototype-MyFinanc\Prototype-MyFinanc\obj\Debug\net6.0\Prototype-MyFinanc.pdb
+C:\Users\Administrator\Desktop\Oficina\GabrielH_Projetos-master\Prototype-MyFinanc\Prototype-MyFinanc\obj\Debug\net6.0\Prototype-MyFinanc.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Oficina\GabrielH_Projetos-master\Prototype-MyFinanc\Prototype-MyFinanc\obj\Debug\net6.0\ref\Prototype-MyFinanc.dll

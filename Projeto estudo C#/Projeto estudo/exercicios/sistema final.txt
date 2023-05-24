@@ -1,0 +1,28 @@
+Sistema de Cadastro de Produtos:
+
+O sistema de cadastro de produtos permite ao usuário realizar as seguintes operações:
+
+Adicionar um novo produto:
+
+O usuário informa o nome, preço e quantidade em estoque do produto.
+O produto é armazenado em uma lista de produtos.
+Listar todos os produtos:
+
+O sistema exibe na tela todos os produtos cadastrados, mostrando o nome, preço e quantidade em estoque de cada um.
+Pesquisar um produto:
+
+O usuário informa o nome de um produto.
+O sistema verifica se o produto está cadastrado e exibe na tela as informações do produto encontrado.
+Atualizar a quantidade em estoque de um produto:
+
+O usuário informa o nome de um produto e a nova quantidade em estoque.
+O sistema atualiza a quantidade em estoque do produto informado.
+Remover um produto:
+
+O usuário informa o nome de um produto.
+O sistema remove o produto da lista de produtos.
+Requisitos adicionais:
+
+O sistema deve ter uma interface de linha de comando, onde o usuário pode interagir através do console.
+Os dados dos produtos devem ser armazenados em uma estrutura de dados adequada, como uma lista ou dicionário.
+O sistema deve permitir ao usuário realizar várias operações consecutivas até que ele escolha sair do programa.
